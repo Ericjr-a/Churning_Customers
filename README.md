@@ -10,3 +10,6 @@ After this, the model’s performance is evaluated on the tested data. The accur
 
 Streamlitapp.py file:
 This creates an app for customer prediction where the keras and scaler models are loaded. Then, the chosen and scaled features are used here to predict the churn rate. The categorical inputs are converted into numerical inputs based on their index in the list> When the predict button is used , the selected features are rescaled, encoded, and scaled. The churn probability is then displayed with the tested model’s confidence level and accuracy score.
+
+
+Link to the video : https://drive.google.com/file/d/1vY0ypkeRYVaYCjT6775U8CE6ExZ0V30l/view?usp=drive_link
